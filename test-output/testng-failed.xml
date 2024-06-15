@@ -5,9 +5,13 @@
     <classes>
       <class name="Testpkg.Logintest">
         <methods>
-          <include name="testlogo"/>
+          <include name="logo"/>
           <include name="setup"/>
-          <include name="wishlist"/>
+          <include name="screenshot"/>
+          <include name="logout"/>
+          <include name="search"/>
+          <include name="test3"/>
+          <include name="carttest"/>
         </methods>
       </class> <!-- Testpkg.Logintest -->
     </classes>
